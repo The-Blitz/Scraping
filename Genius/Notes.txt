@@ -1,0 +1,2 @@
+Can get all the songs from different artist 1 by 1 or all them, but takes time.
+If you want one specifically you may need to put their name with "-" instead of " "
